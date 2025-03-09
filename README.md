@@ -13,9 +13,9 @@ With the rise of online meetings, virtual classrooms, and work-from-home culture
 ## 🛠️ Tools 
 - **TensorFlow** : For building and training the deep learning model.
 - **Convolutional Autoencoders** : The core architecture for noise suppression.
-- **Libraries**:
+- **Main Libraries**:
   - `IPython`  (for audio playback)
-
+  - `Pickle` 
 ---
 
 ## Model Architecture
