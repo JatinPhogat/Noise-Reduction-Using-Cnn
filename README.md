@@ -9,7 +9,7 @@ With the help of Convolutional Autoencoders, this model is trained to detect the
 
 ### Prototype Insights
 
-<img src="1.png">
+<img src="utils/images/1.png">
 
 ---
 
