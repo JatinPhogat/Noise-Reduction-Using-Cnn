@@ -13,8 +13,8 @@ With the help of Convolutional Autoencoders, this model is trained to detect the
 
 ---
 
-<img src="2.png">
+<img src="utils/images/2.png">
 
 ---
 
-<img src="3.png">
+<img src="utils/images/3.png">
